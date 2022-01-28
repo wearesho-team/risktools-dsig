@@ -1,0 +1,11 @@
+{
+    "name": "wearesho/risktools-dsig",
+    "autoload": {
+        "psr-4": {
+            "Wearesho\\RisktoolsDsig\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
